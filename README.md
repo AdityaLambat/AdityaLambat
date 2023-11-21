@@ -28,9 +28,11 @@ Feel free to connect with me aditya.lambat@gmail.com for all things tech or just
 
 ### Languages and Tools:
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
+**Front-End**
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
 <code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
 <code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
