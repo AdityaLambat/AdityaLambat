@@ -30,6 +30,9 @@ Feel free to connect with me aditya.lambat@gmail.com for all things tech or just
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
@@ -43,7 +46,7 @@ Feel free to connect with me aditya.lambat@gmail.com for all things tech or just
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaLambat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
@@ -51,20 +54,18 @@ Feel free to connect with me aditya.lambat@gmail.com for all things tech or just
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaLambat&hide_border=true" />
 </details>
 
 <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> Dell Inspiron 14 </li>
+  	    <li><b>Browser: </b> Chrome</li>
+	    <li><b>Code Editor:</b> VSCode </li>
+ 	    <li><b>Other Tools:</b> Postman, XAMPP </li>
 	</ul>
 </details>
 
