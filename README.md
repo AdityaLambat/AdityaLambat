@@ -1,4 +1,4 @@
-![1720433](https://github.com/AdityaLambat/AdityaLambat/assets/69493972/8b187f9f-4a6f-4994-a3ff-96a7f64293ed)![image](https://github.com/AdityaLambat/AdityaLambat/assets/69493972/42467d64-7356-4a66-a17e-3962b74ad720)## Hey there 👋, I'm [Aditya Lambat!](https://github.com/AdityaLambat/)
+## Hey there 👋, I'm [Aditya Lambat!](https://github.com/AdityaLambat/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-lambat/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aditya.lambat/)
